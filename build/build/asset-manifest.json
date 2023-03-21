@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/raissa48.github.io/build/static/css/main.e6c13ad2.css",
+    "main.js": "/raissa48.github.io/build/static/js/main.f77371c8.js",
+    "static/js/787.7acab544.chunk.js": "/raissa48.github.io/build/static/js/787.7acab544.chunk.js",
+    "index.html": "/raissa48.github.io/build/index.html",
+    "main.e6c13ad2.css.map": "/raissa48.github.io/build/static/css/main.e6c13ad2.css.map",
+    "main.f77371c8.js.map": "/raissa48.github.io/build/static/js/main.f77371c8.js.map",
+    "787.7acab544.chunk.js.map": "/raissa48.github.io/build/static/js/787.7acab544.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f77371c8.js"
+  ]
+}
